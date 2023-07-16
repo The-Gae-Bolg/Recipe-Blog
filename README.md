@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://mellifluous-marigold-2d9212.netlify.app/">
+    <a href="https://main--aesthetic-dodol-291158.netlify.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/The-Gae-Bolg/Interior-Consultant">
+    <a href="https://github.com/The-Gae-Bolg/Recipe-Blog">
       Solution
     </a>
     <span> | </span>
@@ -36,7 +36,7 @@
 
 ## Overview
 
-![screenshot](demo.png)
+![screenshot](demo.PNG)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
